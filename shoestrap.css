@@ -5,6 +5,51 @@
     width: 8.33333333%;
   }
 
+  .col-2{
+    float: left;
+    width: calc(100%/6);
+  }
+  .col-3{
+    float: left;
+    width: calc(100%/4);
+  }
+  .col-4{
+    float: left;
+    width: calc(100%/3);
+  }
+  .col-5{
+    float: left;
+    width:calc(100%/12*5) ;
+  }
+  .col-6{
+    float: left;
+    width: 50%;
+  }
+  .col-7{
+    float: left;
+    width: calc(100%/12*7);
+  }
+  .col-8{
+    float: left;
+    width: calc(100%/12*8);
+  }
+  .col-9{
+    float: left;
+    width: calc(100%/12*9);
+  }
+  .col-10{
+    float: left;
+    width: calc(100%/12*10);
+  }
+  .col-11{
+    float: left;
+    width: calc(100%/12*11);
+  }
+  .col-12{
+    float: left;
+    width: 100%;
+  }
+
   * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
